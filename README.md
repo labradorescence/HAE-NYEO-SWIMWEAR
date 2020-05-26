@@ -25,15 +25,15 @@ Your **minimum requirements** for this project are to build a Command Line App t
 
 ---
 
-## Project Overview (Timeline)
+<!-- ## Project Overview (Timeline)
 
 ### Phase 1: The Setup
 
 This should take approximately **half a day**.
 
-Do not begin coding until you have your pitch approved by an instructor. Do not overthink this. Do not spend your whole day whiteboarding out a schema.
+Do not begin coding until you have your pitch approved by an instructor. Do not overthink this. Do not spend your whole day whiteboarding out a schema. -->
 
-#### Planning
+<!-- #### Planning
 
 Your **first goal** should be to decide on your models and determine the relationships between them. You **must have a minimum of three models consisting of at least _one_ many-to-many relationship.** Here are some ideas:
 
@@ -41,13 +41,13 @@ Your **first goal** should be to decide on your models and determine the relatio
 * `Movie`, `Actor`, `Role`: (IMDb domain) A movie has many actors and an actor has many movies; roles belongs to movie and to actor.
 * `Pizza`, `Topping`, `PizzaTopping`: (Domino's domain) A pizza has many toppings and an topping has many pizzas; pizza_toppings belongs to pizza and to topping.
 
-Whiteboard out your ideas and think about what columns you'll want in the corresponding tables, including foreign keys.
+Whiteboard out your ideas and think about what columns you'll want in the corresponding tables, including foreign keys. -->
 
-* What does your schema look like?
+<!-- * What does your schema look like?
 * What do your relationships look like?
 * Where are foreign keys stored in a many-to-many relationship?
-* etc.
-
+<!-- * etc. -->
+<!-- 
 Your **second goal** should be to decide on your [user stories](https://en.wikipedia.org/wiki/User_story). You **must have a minimum of four user stories corresponding to the four CRUD actions** to help explain how a user will interact with your app. A user story should follow the general structure of `"As a <role>, I want <goal/desire> so that <benefit>."`.
 
 For example, if we were creating an app to review restaurants on Yelp, we might write:
@@ -56,8 +56,8 @@ For example, if we were creating an app to review restaurants on Yelp, we might 
 * As a user, I want to be able to write a review for a restaurant. (**Create**)
 * As a user, I want to enter a restaurant and be given user reviews of that restaurant. (**Read**)
 * As a user, I should be able to edit my restaurant review. (**Update**)
-* As a user, I want to be able to delete one of my restaurant reviews. (**Delete**)
-
+* As a user, I want to be able to delete one of my restaurant reviews. (**Delete**) --> -->
+<!-- 
 
 #### The Pitch
 
@@ -72,7 +72,7 @@ As you pitch, think about how you would explain your [Minimum Viable Product (MV
 
 _**You do not need to have your MVP figured out before your pitch.**_ We will help you scope your project idea before approving it. However, this is a very useful skill to begin building for the future.
 
-**Get your data modeling approved by an instructor before moving on to the next step.**
+**Get your data modeling approved by an instructor before moving on to the next step.** -->
 
 #### Setup
 
