@@ -20,11 +20,11 @@
 
 
 ## Built with 
-* [ActiveRecord] (https://github.com/rails/rails/tree/master/activerecord): interface that Rails gives you between the database and your application. It is an implementation of the Active Record pattern which itself is a description of an Object Relational Mapping system.
+* [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord): interface that Rails gives you between the database and your application. It is an implementation of the Active Record pattern which itself is a description of an Object Relational Mapping system.
 
-* [Require_all] (https://github.com/jarmo/require_all) allows you to execute code from other files without having to shovel in directories beforehand.
+* [Require_all](https://github.com/jarmo/require_all) allows you to execute code from other files without having to shovel in directories beforehand.
 
-* [sqlite3] (https://rubygems.org/gems/sqlite3/versions/1.3.11) a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. 
+* [sqlite3](https://rubygems.org/gems/sqlite3/versions/1.3.11) a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. 
 
 
 * [TTY::Prompt](https://github.com/piotrmurach/tty-prompt): interactive command line prompt that let users to navigate menus using arrows
@@ -33,6 +33,6 @@
 
 * [Faker](https://github.com/faker-ruby/faker): fake data generator
 
-* [ASCII_Text_Art_Generator] (https://fsymbols.com/generators/carty/): generates ASCII art from inputted text
+* [ASCII_Text_Art_Generator](https://fsymbols.com/generators/carty/): generates ASCII art from inputted text
 
 * [ASCII Art Archive](https://www.asciiart.eu/): collection of ASCII art
