@@ -1,6 +1,7 @@
 
 ![welcome-HAENYEO](https://i.imgur.com/ORNFwUd.png)
 
+
 ## Getting Started
     1. Clone this repository onto your local machine.
     2. Run `bundle install` to download all the necessary gems.
@@ -33,5 +34,6 @@
 * [ASCII Art Archive](https://www.asciiart.eu/): collection of ASCII art
 
 
+## Screen shots
 ![menu](https://i.imgur.com/YlN0THh.png)
-![client](https://i.imgur.com/DDyXjSM.png)
+
