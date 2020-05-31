@@ -10,14 +10,15 @@
 ## Main Menu
     * Welcome
     * Browse swimwear
-    * Swimwear info, name, 
+    * Swimwear info: title, price, style, color, size, material, pattern, care_instruction, and description.
+    * Client info: name, email, address, phone, gender, birthday, new_client, and favorite color. 
     * Checkout
     * Login 
     * Purchase an item
-    * Return function
+    * Return 
     * Update client profile
     * Exit
-
+    
 
 ## Built with 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord): interface that Rails gives you between the database and your application. It is an implementation of the Active Record pattern which itself is a description of an Object Relational Mapping system.
