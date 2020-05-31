@@ -1,4 +1,6 @@
 
+![welcome-HAENYEO](https://i.imgur.com/ORNFwUd.png)
+
 ## Getting Started
     1. Clone this repository onto your local machine.
     2. Run bundle install to download all the necessary gems.
@@ -18,7 +20,7 @@
     * Return 
     * Update client profile
     * Exit
-    
+
 
 ## Built with 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord): interface that Rails gives you between the database and your application. It is an implementation of the Active Record pattern which itself is a description of an Object Relational Mapping system.
