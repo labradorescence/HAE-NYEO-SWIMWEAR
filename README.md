@@ -1,4 +1,4 @@
-HAE NYEO SWIMWEAR
+## HAE NYEO SWIMWEAR 🌊
 
 Hae Nyeo Swimwear is a CLI e-commerce app that allows you to collect client's information and allow the client to purchase swimwear. Built using Ruby and Activerecord. Created by Greem J. H. P. Lee.
 
