@@ -69,13 +69,11 @@ The most comfortable, flattering, and quality swimwear in the world
                                                                                                                                 .
 
 ", :cyan]
-#, :blue]
     end
 
     def run
             puts "♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ Thinking of buying a swimwear but not sure which style would be the perfect fit for your body type and the occasion? We can help you with that decision!♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡"
             puts "♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ Choose a style to get started.♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ "
-           # puts ":::::::::::: end of run method hello world::::::::::::::::"
     end#run
 
      def choose_swimwear_or_refund_or_update
@@ -95,7 +93,6 @@ The most comfortable, flattering, and quality swimwear in the world
         ])
 
         def helper_method
-#            selected_swimwear = Swimwear.find_by( @swimwear)
             puts Paint[ " ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
             Wonderful! Yes, great choice, dear.
             
@@ -205,47 +202,3 @@ The most comfortable, flattering, and quality swimwear in the world
         end
     end#choose_swimwear
 end#cli
-
-        # elsif answer == "Short Trunk"
-        #     helper_method(answer)
-        #     proceed_purchase
-        # elsif answer == "Flat Belt"
-        #     helper_method(answer)
-        #     proceed_purchase
-        # elsif answer == "Brief"
-        #     helper_method(answer)
-        #     proceed_purchase
-        # elsif answer == "Boxer"
-        #     helper_method(answer)
-        #     proceed_purchase
-        # elsif answer == "Bikini"
-        #     helper_method(answer)
-        #     proceed_purchase
-        # elsif answer == "Top"
-        #     helper_method(answer)
-        #     proceed_purchase
-        # elsif answer == "Bottom"
-        #     helper_method(answer)
-        #     proceed_purchase
-        # else answer == "Tankini"
-        #     helper_method(answer)
-        #     proceed_purchase
-  
-        # end#if elsif else
-     
-        # def show_purchaseds(purchaseds)  # I don't know which scope to put this method and what kinds of argument to put it in.
-        #     purchaseds.each do |each_purchased|
-        #     puts "::::::#{each_purchased.client_id} #{purchased.client}"
-        #     end
-        # end
-
-        # Swimwear.all.each do |each_swimwear|
-        #     puts "#{each_swimwear.color.capitalize()} #{each_swimwear.title} is $#{each_swimwear.price}."
-        # end
-
-        # swim_1 = Swimwear.find_by(title: "Flat Belt")
-        # puts swim_1.title
-
-        # Purchased.all.select do |each_purchased|
-        #     each_purchased.swimwear_id == Swimwear.ids
-        # end
