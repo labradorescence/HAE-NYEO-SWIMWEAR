@@ -33,7 +33,5 @@
 * [ASCII Art Archive](https://www.asciiart.eu/): collection of ASCII art
 
 
-![menu](https://imgur.com/YlN0THh)
-![menu](https://imgur.com/9Vdnmt5)
-![menu](https://imgur.com/9Vdnmt5)
-![menu](https://imgur.com/DDyXjSM)
+![menu](https://i.imgur.com/YlN0THh.png)
+![client](https://i.imgur.com/DDyXjSM.png)
