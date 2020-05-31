@@ -20,5 +20,4 @@ class Purchased < ActiveRecord::Base
         
     end#refund
 
-
 end

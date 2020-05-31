@@ -34,31 +34,5 @@ class Client < ActiveRecord::Base
         puts "::address updated::"
     end#update
 
-
 end
-
-
-
-
-    #   def self.verify(client_1)
-    #   verify_client = prompt.yes?("Let us verify your profile. Is #{client_1.note} your favorite color?") do |question|
-    #   question.positive "yes" 
-    #   #-> {Client.update(client_1)}
-    #   question.negative "no"
-    #   end
-    # end
-
-
-
-
-#Eric's TTY lecture example
-# def self.create_a_new_user_please
-#   prompt = TTY::Prompt.new
-#   name_of_the_client = prompt.ask("What do you want your username to be?")
-#   if Client.find_by(name: name_of_the_client)
-#     puts "Sorry, the name has been taken"
-#   end
-#   Client.create(name: name_of_the_client)
-# end
-
 
