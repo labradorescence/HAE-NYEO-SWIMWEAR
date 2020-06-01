@@ -8,15 +8,6 @@ Hae Nyeo Swimwear is a CLI e-commerce app that allows you to collect client's in
 
 ## Getting Started
     1. Clone this repository onto your local machine.
-    2. Run bundle install to download all the necessary gems.
-    3. Run rake db:migrate to create the database.
-    4. Run rake db:seed to seed the database with some auto-generated data.
-    5. Once you've installed everything smoothly, run ruby bin/run.rb to start the app!    
-  
-
-
-## Getting Started
-    1. Clone this repository onto your local machine.
     2. Run `bundle install` to download all the necessary gems.
     3. Run `rake db:migrate` to create the database.
     4. Run `rake db:seed` to seed the database with some auto-generated data.
