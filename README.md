@@ -87,3 +87,7 @@ Hae Nyeo Swimwear is a CLI e-commerce app that allows you to collect client's in
                                               |
                                               -- * Update -- Login -- new address input
             
+
+## Flow Chart
+
+![flowchart](https://github.com/labradorescence/HAE-NYEO-SWIMWEAR/blob/master/HAE_NYEO_SWIM_WEAR%20(2)%20(1).pdf)
