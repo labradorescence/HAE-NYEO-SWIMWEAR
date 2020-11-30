@@ -90,4 +90,4 @@ Hae Nyeo Swimwear is a CLI e-commerce app that allows you to collect client's in
 
 ## Flow Chart
 
-![flowchart](https://imgur.com/Bx6f9db)
+(https://imgur.com/Bx6f9db)
